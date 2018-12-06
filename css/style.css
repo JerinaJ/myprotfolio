@@ -201,6 +201,7 @@ body {
 
 .inner_wrapper{
         padding: 50px 0;
+	background_color: #A9A9A9;
 }
 
 /* Services
@@ -263,14 +264,7 @@ a.contact_btn:hover {
     padding: 20px 0;
 	background-color:#FFFFCC;
 }
-.glow {
-  font-size: 40px;
-  color: #df0031;
-  text-align: center;
-  -webkit-animation: glow 1s ease-in-out infinite alternate;
-  -moz-animation: glow 1s ease-in-out infinite alternate;
-  animation: glow 1s ease-in-out infinite alternate;
-}
+
 
 @-webkit-keyframes glow {
   from {
